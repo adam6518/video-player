@@ -1,0 +1,14 @@
+#title-navbar {
+    text-align: center;
+    align-items: center;
+    position: relative;
+}
+
+.list-video {
+    text-align: center;
+    align-items: center;
+    margin-top: 5vh;
+    background-color: greenyellow;
+    width: 30vh;
+    height: max-content;
+}
